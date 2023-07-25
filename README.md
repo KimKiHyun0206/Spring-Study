@@ -1,3 +1,4 @@
-# SpringFramework Study
-* SpringFramework 의 다양한 기능을 사용해 보고 기록하여 남기기 위한 레포지토리
-* JDBC, JPA, Criteria 외에 다양한 Dependency 를 사용해보고 로그로 남길 것
+# JPA
+* JPA 대하여 영속성 컨텍스트를 사용해볼 것
+* 더티 체킹과 준영속 등의 상태에 대하여 공부할 것
+
