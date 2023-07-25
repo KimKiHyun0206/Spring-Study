@@ -1,0 +1,7 @@
+# MYSQL DB 설정
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:8080/[데이터베이스이름]?serverTimezone=UTC
+    username: KimKiHyun0206
+    password: kk020206**
